@@ -1,4 +1,6 @@
 # CodeMate (A Coding Chatbot using Generative AI)
+![chatGPT-GitHub-banner 1](https://github.com/user-attachments/assets/d42d56be-4d66-4cbb-9a69-483ca5b87010)
+
 ## Features
 - **AI-Powered Assistance**: Get instant help with coding questions and debugging.
 - **Multi-Language Support**: Supports Python, JavaScript, Java, and more.
